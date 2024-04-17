@@ -1,6 +1,6 @@
 # LLaMA-Clinic
 
-## This repository contains the code and dataset used for Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation and implementation instructions.
+## This repository contains the code and dataset used for the paper: Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation and implementation instructions.
 
 ## Local setup
 Install dependencies. We used conda environment.
