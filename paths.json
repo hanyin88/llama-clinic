@@ -2,7 +2,7 @@
     "mimic_patients_path": "MIMIC-IV/2.0/hosp/patients.csv",
     "dc_summary_path": "mimic-iv-note/2.2/note/discharge.csv",
     "dataset_save_path": "data/hanyinw2/dc_summary/test/",
-    "ACI_Bench_dialogue_csv_path": " ", 
+    "ACI_Bench_dialogue_csv_path": "  ", 
     "ACI_Bench_output_csv_path": " ",
     "Dialogue_G_dialogue_csv_path": " ",
     "Dialogue_G_output_csv_path": " ",
