@@ -1,6 +1,6 @@
 # LLaMA-Clinic
 
-## This repository contains the code and dataset used for the paper: Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation. Complete updates are forthcoming.
+## This repository contains the code and dataset used for the paper: Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation. 
 
 ## Local setup
 Install dependencies. We used conda environment.
@@ -18,4 +18,4 @@ We made minor modificaiton to Meta's llama-receipes to add simple simple functio
 Please refer to the data folder. 
 
 ## Experiments
-Sample scripts for pretraining, SFT, and DPO can be found in the respective folders. 
+Modules and sample scripts for pretraining, SFT, and DPO can be found in the respective folders. 
