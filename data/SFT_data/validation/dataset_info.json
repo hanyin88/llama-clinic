@@ -1,0 +1,46 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 288134,
+  "description": "",
+  "download_checksums": {
+    "/data/hanyinw2/dc_summary/data_augmentation/new_notes_final/notes_NewPrompt_validation_acibench.csv": {
+      "num_bytes": 287956,
+      "checksum": null
+    }
+  },
+  "download_size": 287956,
+  "features": {
+    "src": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tgt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 576090,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 288134,
+      "num_examples": 40,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
