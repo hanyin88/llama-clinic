@@ -1,6 +1,6 @@
 # LLaMA-Clinic
 
-## This repository contains the code and dataset used for the paper: Adapting Open-Source Large Language Models for Cost-Effective, Expert-Level Clinical Note Generation with On-Policy Reinforcement Learning. 
+## This repository contains the code and dataset used for the paper: Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation
 
 ## Local setup
 Install dependencies. We used conda environment.
@@ -11,8 +11,6 @@ Activate conda environment.
 ```
 conda activate LLaMA-Clinic
 ```
-
-We made minor modificaiton to Meta's llama-receipes to add simple simple functions. Code could be find here: https://github.com/hanyin88/llama-recipes.
 
 ## Dataset
 Please refer to the data folder. 
